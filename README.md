@@ -1,6 +1,6 @@
 ## Agile Training
 
-This website is at <https://github.com/vijaynathani/Agile17Sep>
+This website is at <https://github.com/vijaynathani/Agile22Sep>
 
 During the training
 - Participants must be punctual in mornings and after breaks.
@@ -10,4 +10,4 @@ During the training
 All transgressions are recorded and reported to ICICI.
 
 All slides, exercises, and course material will be kept in this repository during the training. 
-This repository will be deleted 2 calendar days after the training is over.
+This repository will be deleted 4 days after the training is over.
